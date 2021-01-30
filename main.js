@@ -54,6 +54,9 @@ function getInputValue(id) {
 document.getElementById('book-now').addEventListener('click',function(){
   document.getElementById('show-msg').style.right = 0;
 })
+document.getElementById('cross-icon').addEventListener('click',function(){
+  document.getElementById('show-msg').style.right = '-500px';
+})
 
 ///////////////////
   // Calculation Part //

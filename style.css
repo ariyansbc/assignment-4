@@ -155,3 +155,7 @@ nav ul li a:hover, a.active{
 .msg {
     margin-left: 60px;
 }
+#cross-icon {
+    cursor: pointer;
+    margin-left: 20px;
+}
